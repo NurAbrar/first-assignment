@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* heder-part */
 .banner{
     width: 100%;
     height: 700px;
@@ -44,6 +45,7 @@
     background-color: transparent;
     color: white;
 }
+/* middle-part */
 .previous{
     padding:100px 100px;
     display: flex;
@@ -103,6 +105,7 @@
     color: #737272;
     line-height: 30px;
 }
+/* second-banner */
 .second-banner{
     margin:5% 10%;
     height: 300px;
@@ -131,6 +134,7 @@
     color: white;
     background-color: rgb(131, 131, 131);
 }
+/* footer-bar */
 .footer{
     display: flex;
     background-color: #151414;
